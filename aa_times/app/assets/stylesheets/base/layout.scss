@@ -31,6 +31,14 @@ button > li:hover {
 	border-color: rgb(27, 42, 51); 
 }
 
+button.gray-button > li {
+	background-color: rgb(240, 238, 238);
+	color: black;
+}
+button.gray-button > li:hover {
+	background-color: darkgray;
+	border-color: rgb(49, 49, 49);
+}
 /*
 	Header Rules
 */
