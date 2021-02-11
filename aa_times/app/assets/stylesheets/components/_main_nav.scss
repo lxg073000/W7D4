@@ -1,16 +1,18 @@
 .main-nav {
-
+  display: flex;
+  justify-content: space-between;
 }
 
 .left-nav > ul,
 .right-nav > ul {
-
+  display: flex;
+  justify-content: space-between;
 }
 
 .left-nav {
 
-  > ul {
-    > li {
+  > ul { display: flex;
+    > li { 
 
     }
   }
