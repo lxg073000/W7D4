@@ -39,6 +39,18 @@ button.gray-button > li:hover {
 	background-color: darkgray;
 	border-color: rgb(49, 49, 49);
 }
+
+.fa_fa-cog{
+	position: relative;
+}
+
+gear_dropdown{
+	position: absolute;
+	right: 70px;
+	top: 50px;
+}
+
+
 /*
 	Header Rules
 */
